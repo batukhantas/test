@@ -1,0 +1,1 @@
+Yapılan test'i denemek için "node backend-test.js" komutu terminalde yazılabilir. Sonuç olarak, sırasıyla "HTTP status code’larını kontrol et", "Response içeriğini kontrol et", "Header kontrolü" başlıklarındaki testlerden geçmiştir.
